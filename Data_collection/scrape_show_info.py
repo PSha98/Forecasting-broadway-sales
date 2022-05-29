@@ -12,7 +12,7 @@ nominations = []
 wins = []
 performances  = []
 
-for i in range(1985,1990):
+for i in range(1985,2019):
     end = str(i)
     page = requests.get(year_url + end)
 #page = requests.get("https://playbill.com/seasons?year=2010")
@@ -61,7 +61,8 @@ for i in range(1985,1990):
     nominations.extend(nominations_in_year)
     wins.extend(wins_in_year)
     performances.extend(performances_in_year)
-show_type_data = pd.DataFrame({'Name':name,
+show_type_data = pd.DataFrame({'Year': year,
+                            'Name':name,
                            'Type':genre,
                             'Nominations':nominations,
                             'Wins': wins,
