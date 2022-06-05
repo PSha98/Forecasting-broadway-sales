@@ -43,3 +43,26 @@ Multiple Linear Regression
 FB Prophet
 (NB: These 5 models were used in order to recommend the best model for time-series
 forecasting of the data to check for future trends and seasonality.)
+
+Findings / Key Takeaways:
+
+1. The best theater that contributes the highest gross in the Broadway Industry is the
+Broadhurst Theater.
+
+2. The best show that contributes the highest gross is “The Phantom of the Opera”
+
+3. The show “The Phantom of the Opera” is the only show performed in the Majestic
+Theater. This makes the Majestic Theater one of the top five highest grossing theaters.
+
+4. The theaters that make up more than 2% of potential gross accounts for 68.318% of
+weekly actual gross of ticket sales in the Broadway Industry.
+
+Future Direction:
+
+1. Improve Broadway dataset for large scale analysis
+
+2. Be able to predict how the winning of a Tony award improves the business of investors
+
+## Notebook Description
+
+ 1. [Data Scraping]()
