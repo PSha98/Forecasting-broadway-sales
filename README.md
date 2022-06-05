@@ -63,6 +63,6 @@ Future Direction:
 
 2. Be able to predict how the winning of a Tony award improves the business of investors
 
-## Notebook Description
-
- 1. [Data Scraping]()
+Results:
+1. Scrapped data from Playbill website to structured format
+![image](https://user-images.githubusercontent.com/36928110/172037867-a17b5264-4bf9-4b3b-84c6-638c0385d130.png)
