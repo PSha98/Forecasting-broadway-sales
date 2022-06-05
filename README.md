@@ -67,7 +67,7 @@ Results:
 1. Scrapped data from Playbill website to structured format
 ![image](https://user-images.githubusercontent.com/36928110/172037889-666ab48d-1fab-4c3b-b3a8-bf26cf0a37a1.png)
 
-2. Trend Analysis
+2. Visualization
 ![image](https://user-images.githubusercontent.com/36928110/172037926-0bea5a4b-4b5a-4255-9694-407b6fd89862.png)
 ![image](https://user-images.githubusercontent.com/36928110/172037934-b915e367-c790-41a4-922b-7406fc0ade44.png)
 ![image](https://user-images.githubusercontent.com/36928110/172037944-6b3330ba-2466-48e7-a537-dc2c1f01e839.png)
@@ -76,4 +76,25 @@ Results:
 ![image](https://user-images.githubusercontent.com/36928110/172038039-dbfd2609-f795-4812-8919-d0d21ab6436a.png)
 ![image](https://user-images.githubusercontent.com/36928110/172038055-34356e3b-1f57-4931-87c2-b5d7f86d4427.png)
 ![image](https://user-images.githubusercontent.com/36928110/172038063-c3f41640-9032-4189-a37c-151cc6cf00de.png)
+
+3. Prediction for Total Gross/Potential Gross
+(a) ARIMA FORECASTING
+![image](https://user-images.githubusercontent.com/36928110/172038152-33559bfa-2ef6-4b94-99d4-826510bfce0f.png)
+(b) ARIMA DYNAMIC FORECASTING
+![image](https://user-images.githubusercontent.com/36928110/172038166-1addc722-cd3b-42d8-86bb-895283ced99d.png)
+
+ARIMA PREDICTION
+![image](https://user-images.githubusercontent.com/36928110/172038192-5f56a019-7135-41ae-ba75-c698cf4a34fd.png)
+
+(c) LSTM+Multiple Linear Regression
+![image](https://user-images.githubusercontent.com/36928110/172038248-0c8ca128-7196-4cfd-932f-cb52aeacaf90.png)
+
+(d) Prophet
+![image](https://user-images.githubusercontent.com/36928110/172038261-71d9b831-0e6b-451a-923f-563fefd2c26f.png)
+
+
+
+
+
+
 
