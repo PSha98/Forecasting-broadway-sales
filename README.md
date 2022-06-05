@@ -8,7 +8,9 @@ theater in the English-speaking world. According to The Broadway League, for the
 season (which ended May 26, 2019) total attendance was 14,768,254 and Broadway shows had
 US$1,829,312,140 in grosses, with attendance up 9.5%, grosses up 10.3%, and playing weeks
 up 9.3%. Most Broadway shows are musicals.
+
 Our project predicts how the Broadway industry can maximize profit on ticket sales and grosses.
+
 Motivation:
 Money for Broadway shows is typically raised by a small group of producers. Besides the initial
 costs of producing the show, the producers are also responsible for the weekly wages of the cast
@@ -17,11 +19,13 @@ and crew as well as the rent for the theater in which the show is played. It typ
 less than 1 in 5 shows make a profit, however when there is a hit like lion king or Hamilton,
 the returns are enormous. Our project predicts how the Broadway industry can maximize profit
 on ticket sales and theater attendance.
+
 Stakeholders:
 • Primary stakeholders: Producers of shows and Investors
 • Secondary stakeholders: Theater owners & managers, Donors and Crew
 Main Question: What are the trends in Broadway show attendance, ticket sales, playing
 weeks/months and expected profits given historical data of Broadway shows?
+
 Our Approaches:
 • Trial: Linear Regression
 • 5 Forecast Models:
