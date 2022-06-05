@@ -1,7 +1,7 @@
 # Forecasting Broadway Sales
 ![image](https://user-images.githubusercontent.com/36928110/172037580-05229692-dbbf-482b-9352-8256f5ae192b.png)
 
-##Project Summary
+## Project Summary
 
 ![image](https://user-images.githubusercontent.com/36928110/172037700-89a16dd3-68fe-4e69-a62d-43d31f3e2999.png)
 
