@@ -21,13 +21,17 @@ the returns are enormous. Our project predicts how the Broadway industry can max
 on ticket sales and theater attendance.
 
 Stakeholders:
+
 • Primary stakeholders: Producers of shows and Investors
+
 • Secondary stakeholders: Theater owners & managers, Donors and Crew
 Main Question: What are the trends in Broadway show attendance, ticket sales, playing
 weeks/months and expected profits given historical data of Broadway shows?
 
 Our Approaches:
+
 • Trial: Linear Regression
+
 • 5 Forecast Models:
 ARIMA – Forecasting and Dynamic Forecasting
 LSTM
