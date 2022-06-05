@@ -65,4 +65,15 @@ Future Direction:
 
 Results:
 1. Scrapped data from Playbill website to structured format
-![image](https://user-images.githubusercontent.com/36928110/172037867-a17b5264-4bf9-4b3b-84c6-638c0385d130.png)
+![image](https://user-images.githubusercontent.com/36928110/172037889-666ab48d-1fab-4c3b-b3a8-bf26cf0a37a1.png)
+
+2. Trend Analysis
+![image](https://user-images.githubusercontent.com/36928110/172037926-0bea5a4b-4b5a-4255-9694-407b6fd89862.png)
+![image](https://user-images.githubusercontent.com/36928110/172037934-b915e367-c790-41a4-922b-7406fc0ade44.png)
+![image](https://user-images.githubusercontent.com/36928110/172037944-6b3330ba-2466-48e7-a537-dc2c1f01e839.png)
+![image](https://user-images.githubusercontent.com/36928110/172037954-c3b02e1a-7d18-45c7-b87f-74e73af57387.png)
+![image](https://user-images.githubusercontent.com/36928110/172038029-bea62a19-bd29-4372-aba8-cc379678571c.png)
+![image](https://user-images.githubusercontent.com/36928110/172038039-dbfd2609-f795-4812-8919-d0d21ab6436a.png)
+![image](https://user-images.githubusercontent.com/36928110/172038055-34356e3b-1f57-4931-87c2-b5d7f86d4427.png)
+![image](https://user-images.githubusercontent.com/36928110/172038063-c3f41640-9032-4189-a37c-151cc6cf00de.png)
+
