@@ -77,7 +77,11 @@ Results:
 ![image](https://user-images.githubusercontent.com/36928110/172038055-34356e3b-1f57-4931-87c2-b5d7f86d4427.png)
 ![image](https://user-images.githubusercontent.com/36928110/172038063-c3f41640-9032-4189-a37c-151cc6cf00de.png)
 
-3. Prediction for Total Gross/Potential Gross
+3. Linear Regression
+![image](https://user-images.githubusercontent.com/36928110/172038322-1955ae13-d5a8-4d9e-b3ad-80d0812d7ed9.png)
+
+
+4. Prediction for Total Gross/Potential Gross
 (a) ARIMA FORECASTING
 ![image](https://user-images.githubusercontent.com/36928110/172038152-33559bfa-2ef6-4b94-99d4-826510bfce0f.png)
 (b) ARIMA DYNAMIC FORECASTING
@@ -90,7 +94,13 @@ ARIMA PREDICTION
 ![image](https://user-images.githubusercontent.com/36928110/172038248-0c8ca128-7196-4cfd-932f-cb52aeacaf90.png)
 
 (d) Prophet
+
 ![image](https://user-images.githubusercontent.com/36928110/172038261-71d9b831-0e6b-451a-923f-563fefd2c26f.png)
+
+![image](https://user-images.githubusercontent.com/36928110/172038310-fdf6aed4-94d7-46d1-af76-4226a46632e3.png)
+
+![image](https://user-images.githubusercontent.com/36928110/172038333-05c4a045-bf99-443e-9dd4-10926153a72d.png)
+
 
 
 
